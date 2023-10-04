@@ -1,0 +1,2 @@
+# Mazer
+Maze solving algorithm
